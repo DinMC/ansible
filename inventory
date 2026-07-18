@@ -7,3 +7,6 @@ rusdi@192.168.88.134
 
 [file_servers]
 rusdi@192.168.88.136
+
+[workstations]
+ricardo@192.168.88.137
