@@ -1,4 +1,9 @@
-rusdi@192.168.88.132 apache_package=apache2 php_package=libapache2-mod-php
-rusdi@192.168.88.134 apache_package=apache2 php_package=libapache2-mod-php
-rusdi@192.168.88.136 apache_package=apache2 php_package=libapache2-mod-php
-rusdi@192.168.88.138 apache_package=httpd php_package=php
+[web_servers]
+rusdi@192.168.88.132
+rusdi@192.168.88.138
+
+[db_servers]
+rusdi@192.168.88.134
+
+[file_servers]
+rusdi@192.168.88.136
